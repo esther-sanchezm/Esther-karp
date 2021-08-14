@@ -10,7 +10,13 @@ First, I added songs manually but after, I decided integrate my application with
 
 In this moment, I have project in progress and they gave me some results, for the moment, it seems, all songs are very neutral or ambiguos for PLN but I need more analyst for confirm that.  
 
-#### Sentiment analyst 
+#### Thot 
+Thot born how a excuse for do something really geek. On the one hand I love games like dungeons and dragons and I really enjoy fantasy so I will do a application that permits you create your own lore but, on the other hand I really enjoy create harmonious software with well defined modules. 
+Initially, I worked on two differents parts off application on parallel : ``backend``, with spring boot and ``frontend`` with angular. For making a professional finish (or starting, depends of point of vist) exist ``menu.bat`` and create database with ``mongodb``.
+
+
+
+
 Desarrollo de la solución.
 Reflexiones.
 Lecciones aprendidas
