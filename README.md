@@ -1,7 +1,7 @@
 ## Esther karp
 
 ### Proyectos
-#### Musical lyric sentiment analyst 
+#### Di Ku, ***Musical lyric sentiment analyst***
 Someday, I wake up and think if was possible that lyrics of songs could have "sentiment". The problem is that lyric are only one element of all the music and more of type this could be incomplete or grammatical incorrect. But, ¡I wanted to test something!
 
 For that proyect I used API ``Stanford CoreNLP``. I known that API because I used to my final proyect degree. This API have a lot of functionalities about PLN and I used ``Sentiment Analyst`` functionality to analyst lyrics of songs.
